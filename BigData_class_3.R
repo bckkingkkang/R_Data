@@ -1,0 +1,11 @@
+str(iris)
+head(iris, 10)
+plot(iris)
+plot(iris$Petal.Width, iris$Petal.Length, col=iris$Species)
+
+str(objects)
+str(cars)
+str(car.10)
+str(cars, 10)
+plot(cars)
+plot(cars$dist, col=cars$speed)
